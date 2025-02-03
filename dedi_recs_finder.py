@@ -61,6 +61,7 @@ def read_recs(overall_stats, map, players):
     ml_wr = False
     stats = overall_stats.copy()
     data = []
+    recs = 0
     tmx_wr = tmx_wrs[map[1]]
     if tmx_wr[0] != "N/A":
         tmx_wr_name = tmx_wr[0]
@@ -68,8 +69,9 @@ def read_recs(overall_stats, map, players):
     else:
         tmx_wr_name = ""
         tmx_wr_time = ""
-    if maps[3] != "N/A":
+    try:
         info_table = dedi_driver.find_elements(By.XPATH, "//table[@class='tabl'][2]//tr")
+        
         for i in info_table:
             if i.get_attribute("bgcolor") == "#FFFFFF" or i.get_attribute("bgcolor") == "#F0F0F0":
                 login = i.find_element(By.XPATH, "./td[4]/a")
@@ -77,15 +79,30 @@ def read_recs(overall_stats, map, players):
                 rank = i.find_element(By.XPATH, "./td[6]")
                 time = i.find_element(By.XPATH, "./td[8]/a")
                 data.append([login.get_attribute("innerHTML"), nickname.get_attribute("innerHTML"), rank.get_attribute("innerHTML"), time.get_attribute("innerHTML")])
-                if str(rank.get_attribute("innerHTML")).strip() == '10':
+                recs += 1
+                if recs == 10:
                     break
-        if len(data) > 0:
-            if data[0][0] in players:
-                if tmx_wr_time != "" and float(tmx_wr_time) > time_converter(data[0][3]):
-                    ml_wr = True
-    stats.append([map[2], data, ml_wr, map[3], tmx_wr_name, tmx_wr_time])
-    return stats.copy()
+    except:
+        pass
     
+    if len(data) > 0:
+        if tmx_wr_time != "":
+            dedi_wr_time = time_converter(data[0][3])
+            if dedi_wr_time < float(tmx_wr_time) and data[0][0] in players:
+                ml_wr = True
+            elif tmx_wr_name in players_tmx:
+                ml_wr = True
+        elif tmx_wr_time == "" and data[0][0] in players:
+            ml_wr = True
+    else:
+        if tmx_wr_name in players_tmx:
+            ml_wr = True
+
+
+    stats.append([map[2], data[0:min(len(data), 10)], ml_wr, map[3], tmx_wr_name, tmx_wr_time])
+    return stats.copy()
+
+wr_or_not = []
 
 overall_stats = []
 players = []
@@ -93,6 +110,12 @@ player_file = open("players.txt", "r")
 for line in player_file:
     players.append(line.strip())
 player_file.close()
+
+players_tmx = []
+players_tmx_file = open("players_tmx.txt", "r", encoding="UTF-8")
+for line in players_tmx_file:
+    players_tmx.append(line.strip())
+players_tmx_file.close()
 
 tmx_wrs = {}
 tmx_wr_file = open("tmx_wrs.txt", "r")
@@ -117,7 +140,7 @@ num_processed = 0
 total_num = len(maps)
 for map in maps:
     next_challenge(map[0])
-    time.sleep(0.3)
+    time.sleep(0.1)
     overall_stats = read_recs(overall_stats, map, players)
     num_processed += 1
     print(f"{round(num_processed*100 / total_num, 1)}%")
@@ -135,19 +158,30 @@ for map_stats in overall_stats:
         row_2.append(player[3])
         count += 1
     while count < 10:
-        row_1.append("")
-        row_2.append("")
+        row_1.append(" ")
+        row_2.append(" ")
         count += 1
 
     row_1.append(map_stats[4])
-    row_2.append(time_to_string(float(map_stats[5])))
+    try:
+        row_2.append(time_to_string(float(map_stats[5])))
+    except:
+        row_2.append(" ")
+    else:
+        pass
     row_1.append(map_stats[2])
     row_1.append(map_stats[3])
     rows.append(row_1)
     rows.append(row_2)
-    rows.append([""])
+    rows.append([" "])
+    wr_or_not.append([map_stats[0], map_stats[3], map_stats[2]])
+
+ml_wrs_file = open("ml_wrs.txt", "w", encoding="UTF-8")
+for map in wr_or_not:
+    ml_wrs_file.write(f"{map[0]}@{map[1]}@{map[2]}\n")
+ml_wrs_file.close()
 
 with open(f'Logs/dedi_recs_{datetime.date.today()}.csv', 'w', newline='', encoding="UTF-8") as csvfile:
     writer = csv.writer(csvfile, delimiter="@")
     writer.writerows(rows)
-    
+

@@ -17,6 +17,8 @@ driver = webdriver.Edge()
 
 tmx_wrs = []
 
+total = len(tmx_ids)
+count = 0
 for id in tmx_ids:
     driver.get(f"https://tmnf.exchange/api/replays?trackId={id}&count=1&fields=ReplayTime%2CUser.Name")
     tmx_wr = driver.find_element(By.TAG_NAME, "pre").get_attribute("innerHTML")
@@ -28,6 +30,8 @@ for id in tmx_ids:
         wr_time = "N/A"
         wr_name = "N/A"
     tmx_wrs.append([id, wr_name, wr_time])
+    count += 1
+    print(f"{round(count*100 / total, 1)}%")
 
 driver.quit()
 

@@ -8,7 +8,7 @@ for line in txt_file:
 
 data.sort(key=lambda x: x[4])
 
-track_info_file = open("track_info_map_temp.txt", "w", encoding="UTF-8")
+track_info_file = open("track_info_map.txt", "w", encoding="UTF-8")
 for track in data:
     track_info_file.write(f"{track[0]}@{track[1]}@{track[2]}@{track[3]}@{track[4]}\n")
 track_info_file.close()
