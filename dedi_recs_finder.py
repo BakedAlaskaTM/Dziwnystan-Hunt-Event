@@ -48,14 +48,20 @@ def prep():
     submit.click()
 
 def next_challenge(map_id):
-    uid_field = dedi_driver.find_element(By.NAME, "Uid")
-    uid_field.clear()
-    uid_field.send_keys(f"{map_id}")
-    
-    submit = dedi_driver.find_elements(By.XPATH, "//*[@type='submit']")[0]
+    while True:
+        try:
+            uid_field = dedi_driver.find_element(By.NAME, "Uid")
+            uid_field.clear()
+            uid_field.send_keys(f"{map_id}")
+            
+            submit = dedi_driver.find_elements(By.XPATH, "//*[@type='submit']")[0]
 
-    submit.click()
-    dedi_driver.find_elements(By.XPATH, "//option[text()='Rank (Asc)']")[1].click()
+            submit.click()
+            dedi_driver.find_elements(By.XPATH, "//option[text()='Rank (Asc)']")[0].click()
+            break
+        except:
+            time.sleep(10)
+            print("Internet gone")
 
 def read_recs(overall_stats, map, players):
     ml_wr = False
@@ -74,11 +80,12 @@ def read_recs(overall_stats, map, players):
         
         for i in info_table:
             if i.get_attribute("bgcolor") == "#FFFFFF" or i.get_attribute("bgcolor") == "#F0F0F0":
-                login = i.find_element(By.XPATH, "./td[4]/a")
-                nickname = i.find_element(By.XPATH, "./td[5]/a")
-                rank = i.find_element(By.XPATH, "./td[6]")
-                time = i.find_element(By.XPATH, "./td[8]/a")
-                data.append([login.get_attribute("innerHTML"), nickname.get_attribute("innerHTML"), rank.get_attribute("innerHTML"), time.get_attribute("innerHTML")])
+                login = i.find_element(By.XPATH, "./td[4]/a").get_attribute("innerHTML")
+                nickname = i.find_element(By.XPATH, "./td[5]/a").get_attribute("innerHTML")
+                rank = i.find_element(By.XPATH, "./td[6]").get_attribute("innerHTML")
+                time = i.find_element(By.XPATH, "./td[8]/a").get_attribute("innerHTML")
+                time_float = time_converter(time)
+                data.append([login, nickname, rank, time, time_float])
                 recs += 1
                 if recs == 10:
                     break

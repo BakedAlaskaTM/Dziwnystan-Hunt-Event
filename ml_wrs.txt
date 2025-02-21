@@ -1,16 +1,16 @@
 ,to save me from tears@,to save me from tears@False
 /++@/++@True
-/--@/--@False
-///LoL/// Team 1@N/A@False
+/--@/--@True
+///LoL/// Team 1@///LoL/// Team 1@False
 0ber@0ber@True
 1000 TMX@1000 TMX@False
 1001@1001@False
 1002@1002@False
-1004@1004@False
-1008@N/A@False
+1004@1004@True
+1008@1008@False
 1009@1009@False
-100s challenge@N/A@False
-1011@1011@False
+100s challenge@100s challenge@True
+1011@1011@True
 1013 -TR@1013 -TR@False
 1014@1014@True
 1016-T@1016-T@False
@@ -18,32 +18,32 @@
 12:74@12:74@False
 1st unlimiter map@1st unlimiter map@True
 2 balle@2 balle@False
-2008 gootrr@N/A@False
+2008 gootrr@2008 gootrr@True
 200ml left@200m left@True
-2011rrdd@N/A@True
+2011rrdd@2011rrdd@True
 2024@2024@False
 235 is easy fr fr@235 is easy fr fr@False
 25% lol@25% lol@False
 3 ways in  fixed@3 ways in  fixed@True
-30 second challenge 1@N/A@False
-31st december 2022 @N/A@False
+30 second challenge 1@30 second challenge 1@True
+31st december 2022 @31st december 2022@True
 360 mufattmf tas this for me pls@360 mufattmf tas this for me pls@False
 399@399@False
 5 maps in one @5 maps in one@False
-5' o daee@N/A@True
-6 digits@6 digits@False
-80A 1@N/A@False
+5' o daee@5' o daee@True
+6 digits@6 digits@True
+80A 1@80A 1@True
 80A 2@80A 2@False
-80A 3@80A 3@False
+80A 3@80A 3@True
 80A 5@80A 5@False
-993@993@False
+993@993@True
 994@994@False
 996@996@False
-997@997@False
+997@997@True
 998@998@False
 999@999@True
-^.^ :3@N/A@False
-a prommis@N/A@False
+^.^ :3@^.^ :3@False
+a prommis@a prommis@True
 a to moja styluwa@a to moja styluwa@False
 a to the s to the m to the r@a to the s to the m to the r@True
 A very map@A very map@False
@@ -52,83 +52,82 @@ A0 hard@A0 hard@False
 A03 from wish@A03 from wish@True
 A08 1@A08 1@True
 A08 2@A08 2@True
-A08 3@N/A@False
-A08 4@A08 4@False
+A08 3@A08 3@True
+A08 4@A08 4@True
 A08 5@A08 5@True
 A09 from memory but i have dementia@A09 from memory but i have dementia@False
-A0U@N/A@False
+A0U@A0U@True
 AB or no AB@AB or no AB@False
 abobax@abobax@False
 Acitnem@Acitnem@False
-Acrobatic series 1@N/A@False
+Acrobatic series 1@Acrobatic series 1@False
 Acrobatic Series 2@Acrobatic Series 2@False
-Acrobatic Series 3@N/A@False
+Acrobatic Series 3@Acrobatic Series 3@True
 Acrobatic Series 4@Acrobatic Series 4@False
-actual 2011 map@N/A@False
+actual 2011 map@actual 2011 map@True
 Actually smooth 500@Actually smooth 500@True
-add from tmx /afk@add from tmx /afk@False
-Admin@Admin@False
-aeoielm@aeoielm@False
-aguardiente 5.9@N/A@False
-AI Generated #1@AI Generated #1@False
-Ajcn Aksl@N/A@True
+add from tmx /afk@add from tmx /afk@True
+Admin@Admin@True
+aeoielm@aeoielm@True
+aguardiente 5.9@aguardiente 5.9@True
+AI Generated #1@AI Generated #1@True
+Ajcn Aksl@Ajcn Aksl@True
 Akslop@Akslop@False
 Alaks@Alaks@False
 Ale Pitny@Ale Pitny@False
 alecks wont beat this AT@alecks wont beat this AT@True
-Alfhilde@N/A@False
+Alfhilde@Alfhilde@False
 ali good @ali good@False
-all blocks i could place here@all blocks i could place here@False
+all blocks i could place here@all blocks i could place here@True
 Alpha02@Alpha02@True
-Alpork@N/A@True
-already omon us@already omon us@False
+Alpork@Alpork@True
 alternate universe A12@alternate universe A12@False
-amabatukam@amabatukam@False
+amabatukam@amabatukam@True
 Amogus@Amogus@True
 AMOGUS SUS@AMOGUS SUS@False
 Ananas Pizza Strawberry@Ananas Pizza Strawberry@False
-and with this @N/A@False
+and with this @and with this@False
 Angela@Angela@False
-annyLebronJam@annyLebronJam@False
+annyLebronJam@annyLebronJam@True
 annytf silly@annytf silly@False
 Another day@Another day@True
 Another of dis@Another of dis@False
-antymufatcut@antymufatcut@False
-Arctic1@N/A@True
+antymufatcut@antymufatcut@True
+Arctic1@Arctic1@True
 arcydzielo 5@arcydzielo 5@False
 As Lol 23@As Lol 23@True
-Asmeria blacc@Asmeria blacc@False
+Asmeria blacc@Asmeria blacc@True
 Ass-trial@Ass-trial@True
 asto lolsto@asto lolsto@True
-Astolfo holes@Astolfo holes@False
+Astolfo holes@Astolfo holes@True
 Astro stefan@Astro stefan@True
 attempts more attempts@attempts more attempts@False
-Autistic lol1@Autistic lol1@False
+Autistic lol1@Autistic lol1@True
 Autistic lol10@Autistic lol10@False
 Autistic lol12@Autistic lol12@False
 Autistic lol14@Autistic lol14@False
 Autistic lol2@Autistic lol2@False
 Autistic lol4@Autistic lol4@True
-Autistic lol5@Autistic lol5@False
+Autistic lol5@Autistic lol5@True
 Autistic lol6@Autistic lol6@False
 Autistic lol7@Autistic lol7@False
 Autistic lol8@Autistic lol8@False
 Autistic lol9@Autistic lol9@False
 Auto sd map@Auto sd map@False
-Awesome gamer@N/A@False
+Awesome gamer@Awesome gamer@True
 awful mep@awful mep@False
 AYAYA recruit map@AYAYA recruit map@True
-B06-Obstacle boosters@N/A@False
+B06-Obstacle boosters@B06-Obstacle boosters@True
 Bad mapping@Bad mapping@False
 bah gah ba@bah gah ba@False
 bakalie@bakalie@False
-bakomid@bakomid@False
-baseg@baseg@False
-bcos why not@N/A@False
-ben@ben@False
+bakomid@bakomid@True
+baseg@baseg@True
+bcos why not@bcos why not@True
+ben@ben@True
 bernaut@bernaut@False
-bidone@bidone@False
-big boss baby@N/A@False
+bidone@bidone@True
+big boss baby@big boss baby@True
 biggest balls in the summer@biggest balls in the summer@False
 Binoculus@Binoculus@False
 biological jam hoax@biological jam hoax@True
@@ -136,17 +135,17 @@ birb64@birb64@True
 black nilla@black nilla@True
 Ble rna me@Ble rna me@False
 bludy moring@bludy moring@False
-Blumsi@N/A@False
+Blumsi@Blumsi@False
 bobble wobble 2@bobble wobble 2@False
 bobble wobble 3 @bobble wobble 3@False
-Bomb art@N/A@False
+Bomb art@Bomb art@True
 bonki bonk bonko@bonki bonk bonko@False
-BOP  @BOP@False
-Bringham@Bringham@False
+BOP  @BOP@True
+Bringham@Bringham@True
 bryeh ooo@bryeh ooo@False
 Bug Slide 5@Bug Slide 5@True
 Bugslide fun@Bugslide fun@False
-Bugslide fun 2.0@N/A@False
+Bugslide fun 2.0@Bugslide fun 2.0@False
 buhg@buhg@False
 busted@busted@True
 but you still catch my eye@but you still catch my eye@False
@@ -155,50 +154,50 @@ CA1EBYT@CA1EBYT@False
 caca map1@caca map1@True
 caca map2@caca map2@False
 caci przelodowany@caci przelodowany@True
-can be this bad@can be this bad@False
+can be this bad@can be this bad@True
 cant get up?@N/A@False
 Cassiee@Cassiee@False
 cat wiht a heart and he fluff@cat wiht a heart and he fluff@False
 Catcuber@Catcuber@False
-cauldron of misery@cauldron of misery@False
+cauldron of misery@cauldron of misery@True
 certin sifee@certin sifee@False
 Charimelon@Charimelon@False
 Check Point 70@Check Point 70@False
-Chromatic@Chromatic@False
+Chromatic@Chromatic@True
 chroncie moje multi xd@chroncie moje multi xd@True
 ciecie@ciecie@False
 cienty bagno@cienty bagno@False
 clean the poipe@clean the poipe@True
 clospart@clospart@False
-clown like me@N/A@False
+clown like me@clown like me@True
 co sie dzieje@co sie dzieje@False
 Co sie stalo w Hrubieszowie@Co sie stalo w Hrubieszowie@False
 come at me gs boys@come at me gs boys@False
 Competition 1@Competition 1@False
 completly normal scenerE@completly normal scenerE@True
 confusing if you ask me@confusing if you ask me@True
-consistencyr@N/A@False
+consistencyr@consistencyr@True
 Cool map name 45@Cool map name 45@True
 Council has decided@Council has decided@False
 crazy lole@crazy lole@False
 Crazy? i was crazy once@Crazy? i was crazy once@False
-CraZyy Ubeer@N/A@False
-creative soss@N/A@False
+CraZyy Ubeer@CraZyy Ubeer@False
+creative soss@creative soss@True
 creepy nuts@creepy nuts@False
-crunk02@crunk02@False
-crunk03@crunk03@False
+crunk02@crunk02@True
+crunk03@crunk03@True
 crunk05@crunk05@False
-Ctut Masp@Ctut Masp@False
+Ctut Masp@Ctut Masp@True
 Cut or uber ?@Cut or uber ?@False
-cuttah Dzi@N/A@False
+cuttah Dzi@cuttah Dzi@True
 czesc oto ja@czesc oto ja@False
 czloweik rzuk@czloweik rzuk@True
 D-techki@D-techki@False
 D-techki reverse@N/A@False
-dailyhside@dailyhside@False
-dailyhsideE@N/A@False
-De la mami@N/A@False
-De large & MG@De large & MG@True
+dailyhside@dailyhside@True
+dailyhsideE@dailyhsideE@False
+De la mami@De la mami@False
+De large & MG@De large &amp; MG@True
 deja vu enter@deja vu enter@False
 Desert1@Desert1@False
 dezland mr@dezland mr@False
@@ -206,122 +205,122 @@ dla fanuw driftu@dla fanuw driftu@False
 do a kickflip@do a kickflip@False
 do you rember?@do you rember?@False
 dobry start ale no nw aaa@dobry start ale no nw aaa@True
-dont rushe@dont rushe@False
-dotanek@N/A@False
+dont rushe@dont rushe@True
+dotanek@dotanek@True
 dpamine@dpamine@True
 dragon fruit@dragon fruit@False
 Drive forever@Droga moich dziadków do szkoły@False
 dumbraven@dumbraven@False
 Dunes1@Dunes1@False
-dunl@dunl@False
+dunl@dunl@True
 dzi2@dzi2@True
-dzinwy notpf@N/A@False
+dzinwy notpf@dzinwy notpf@True
 dziwn OoOoOoOOOo@dziwn OoOoOoOOOo@False
-dziwny Cup #1@dziwny Cup #1@False
+dziwny Cup #1@dziwny Cup #1@True
 dziwny Cup #2@dziwny Cup #2@True
 dziwny daily1@dziwny daily1@False
 dziwny decent map@dziwny decent map@False
-dziwny Fall remake@dziwny Fall remake@False
-dziwny lol 4@N/A@False
+dziwny Fall remake@dziwny Fall remake@True
+dziwny lol 4@dziwny lol 4@True
 Dziwny lol Smokey@Dziwny lol Smokey@False
 Dziwny rpg@Dziwny rpg@True
 Dziwny Speed 1@Dziwny Speed 1@False
 Dziwny Uber 2@Dziwny Uber 2@False
 Dziwny Uber 3@Dziwny Uber 3@False
 Dziwny Uber 4@Dziwny Uber 4@False
-Dziwny Uber 5@Dziwny Uber 5@False
+Dziwny Uber 5@Dziwny Uber 5@True
 Dziwny Uber 6@Dziwny Uber 6@False
 Dziwny Uber 7@Dziwny Uber 7@False
 dziwnycut@dziwnycut@False
 dziwnystan ++@dziwnystan ++@False
 dziwnystan bonk trial (fixed)@dziwnystan bonk trial (fixed)@False
-e kacky?@e kacky?@False
+e kacky?@e kacky?@True
 E low max noom@E low max noom@True
 Easy Rpg for hunting@Easy Rpg for hunting@False
 easy//asto2@easy//asto2@False
 Eee 104@Eee 104@True
 Eh um ur@N/A@False
-ekans gnol@N/A@False
+ekans gnol@ekans gnol@True
 ekwoei@ekwoei@False
-elegant powyse@N/A@False
+elegant powyse@elegant powyse@True
 Elivaew@Elivaew@False
 Endurance race Astolfo @Endurance race Astolfo@False
 Endvaer - Medium Hard Trial@Endvaer - Medium Hard Trial@True
 Eri Hgu@Eri Hgu@False
 escaping mufat's attic@escaping mufat's attic@True
-escaping mufat's basement@N/A@False
+escaping mufat's basement@escaping mufat's basement@False
 Euvalet@Euvalet@False
 every kshenr lol map@every kshenr lol map@True
-Evitaerc<--@Evitaerc<--@False
+Evitaerc<--@Evitaerc&lt;--@False
 exchaning laneds@exchaning laneds@True
 Fabitm rate maj map@Fabitm rate maj map@True
 face it you live to pay taxes@face it you live to pay taxes@False
 Fake pf 1@Fake pf 1@False
 Fall 1@Fall 1@False
-Fall 2@N/A@False
+Fall 2@Fall 2@False
 Fall 2023 02@Fall 2023 02@False
 Fall 2023 04@Fall 2023 04@False
 fam asleep@fam asleep@False
 Feliz Navidad@Feliz Navidad@True
-Fellin so fre@N/A@False
+Fellin so fre@Fellin so fre@True
 felt cute@felt cute@False
 Fight Dirty@Fight Dirty@False
 finD the solution @finD the solution@False
-Forwards vs Backwards@Forwards vs Backwards@False
+Forwards vs Backwards@Forwards vs Backwards@True
 fotosintezis@fotosintezis@True
 fox girls are here@fox girls are here@False
 France@France@False
 french short @french short@True
 Fried eggs@Fried eggs@False
-Full Swing@N/A@False
-Ganacci@N/A@False
+Full Swing@Full Swing@False
+Ganacci@Ganacci@True
 Gawr Gura@Gawr Gura@True
 Gdzie pieprz rosnie@Gdzie pieprz rosnie@False
-Get down on it@N/A@False
+Get down on it@Get down on it@False
 get over here!@get over here!@False
 ghisther fe@ghisther fe@False
-giga  chad@N/A@False
-giga  chadeus@N/A@False
+giga  chad@giga  chad@False
+giga  chadeus@giga  chadeus@False
 go turn go back@go turn go back@True
-Go West@N/A@False
+Go West@Go West@True
 Goat Bedge@Goat Bedge@False
-goku drip@N/A@False
+goku drip@goku drip@False
 Good long track@Unnamed 6 min@True
 Good not glitchy map@Good not glitchy map@True
-goofy ah precision@N/A@False
+goofy ah precision@goofy ah precision@True
 Goofy ah uncle@Goofy ah uncle@True
-Goplana@N/A@False
-Graduation@N/A@False
+Goplana@Goplana@False
+Graduation@Graduation@True
 Grass Slide 101@Grass Slide 101@False
 Grass Slide enjoyers@Grass Slide enjoyers@False
 great gs map plus plus@great gs map plus plus@False
-Green #1@Green #1@False
+Green #1@Green #1@True
 Gs  x2 right 10 sec@Gs  x2 right 10 sec@False
 Gs fiesta@Gs fiesta@False
-Gs fiesta2w@N/A@False
+Gs fiesta2w@Gs fiesta2w@False
 Gs Sheniganas@Gs Sheniganas@False
 gut mip@N/A@False
 guuty@N/A@False
 guwniane guwno #3@guwniane guwno #3@True
-guwniane guwno #4@N/A@False
+guwniane guwno #4@guwniane guwno #4@True
 habe u seen an alien please?@habe u seen an alien please?@False
-hajzy z isna@N/A@False
+hajzy z isna@hajzy z isna@True
 half a bottle@half a bottle@False
 happy 20 years tm@happy 20 years tm@False
 Happy Christmas@Happy Christmas@True
-Happy new year gamers :C@Happy new year gamers :D@False
+Happy new year gamers :C@Happy new year gamers :D@True
 Hard lol for pros@Hard lol for pros@True
 harold@harold@False
 Haversard@Haversard@True
 he coocked good@he coocked good@True
-heart heart heart@N/A@False
-hee hee jacks@hee hee jacks@False
-Hefleid@N/A@False
+heart heart heart@heart heart heart@False
+hee hee jacks@hee hee jacks@True
+Hefleid@Hefleid@False
 Helvetica Standard@Helvetica Standard@False
 henry LoL 1@henry LoL 1@False
 hex(no)limit :)@hex(no)limit :)@False
 High BPM Master@High BPM Master@False
-Highspeed Etoile@N/A@False
+Highspeed Etoile@Highspeed Etoile@True
 Hills1@Hills1@False
 ho lee fook@ho lee fook@False
 Hobbit czyli tam @Hobbit czyli tam@False
@@ -331,31 +330,31 @@ Hortensia@Hortensia@True
 Hunt mappers@Hunt mappers@True
 Huntiny@Huntiny@False
 hypnos nigthmare@hypnos nigthmare@True
-i am atomic@N/A@True
+i am atomic@i am atomic@True
 i am unstoppable@i am unstoppable@True
-i cant stop building dumb maps@N/A@False
+i cant stop building dumb maps@i cant stop building dumb maps@False
 i could stop it if i want it@i could stop it if i want it@False
 i dislike pipes@i dislike pipes@True
 i dont have time to build something good@i dont have time to build something good@False
 I Dont Mind Ruining your day 1@I Dont Mind Ruining your day 1@False
 i dont think there is a cut here@i dont think there is a cut here@False
-i dunno@N/A@False
+i dunno@i dunno@True
 I gave you my heart@I gave you my heart@False
 i get no kick from champagne@i get no kick from champagne@False
-i had a bike crash, layed in bed for 7 days@i had a bike crash, layed in bed for 7 days@False
+i had a bike crash, layed in bed for 7 days@i had a bike crash, layed in bed for 7 days@True
 I hate to disappoint you@I hate to disappoint you@False
 i have a bird@i have a bird@False
-i hear jackie chan singing omae oma owa shindeiru@i hear jackie chan singing omae oma owa shindeiru@False
+i hear jackie chan singing omae oma owa shindeiru@i hear jackie chan singing omae oma owa shindeiru@True
 I keep my distance,@I keep my distance,@False
 I learned how to dirt hills@I learned how to dirt hills@False
 I like this one@I like this one@False
 i made kacky accidientally@i made kacky accidientally@False
 i prefer random bounces@i prefer random bounces@False
 i see thaa yoos@i see thaa yoos@False
-I wish i were a bird@N/A@False
-i woke up and build this @i woke up and build this@False
+I wish i were a bird@I wish i were a bird@False
+i woke up and build this @i woke up and build this@True
 I wrapped it up and sent it@I wrapped it up and sent it@False
-If you beat 17.04 i will give you 5$@N/A@False
+If you beat 17.04 i will give you 5$@Campaign X@False
 iforgotwhatiwantedtobuildsohereisarandomlolmap@iforgotwhatiwantedtobuildsohereisarandomlolmap@True
 IHU - #1@IHU - #1@True
 IHU - #2@IHU - #2@True
@@ -364,70 +363,70 @@ IHU - #4@IHU - #4@False
 IHU - #5@IHU - #5@False
 IHU - #6@IHU - #6@False
 IHU - #7@IHU - #7@False
-IHU - #8@N/A@False
-IHU - #9@IHU - #9@False
-Im a talented mapper@N/A@False
-Im back guys @Im back guys@False
+IHU - #8@IHU - #8@True
+IHU - #9@IHU - #9@True
+Im a talented mapper@Im a talented mapper@True
+Im back guys @Im back guys@True
 Im back with this@Im back with this@False
-Im back with this v2@N/A@False
+Im back with this v2@Im back with this v2@True
 im lost in ngolo@im lost in ngolo@False
-im too lazy to try faster way@im too lazy to try faster way@False
-Imagine drifting in a car game@N/A@True
+im too lazy to try faster way@im too lazy to try faster way@True
+Imagine drifting in a car game@Imagine drifting in a car game@True
 imma put my cat on the mic@imma put my cat on the mic@False
 imma put my racoon on the mic@imma put my racoon on the mic@False
 Impa atas@Impa atas@False
 Impossible Slides@Impossible Slides@False
-Impossible Slides 2@N/A@False
+Impossible Slides 2@Impossible Slides 2@False
 in the swamp of evil@in the swamp of evil@True
 Indbend@N/A@False
 isaac smalld1x@isaac smalld1x@False
-Isueri@N/A@False
-It a cute map@N/A@False
-it doesn't surprise me@it doesn't surprise me@False
+Isueri@Isueri@True
+It a cute map@It a cute map@False
+it doesn't surprise me@it doesn't surprise me@True
 Its Joever@N/A@False
 its over 900!@its over 900!@False
-iwaslookingfor@N/A@False
-Jakas mapa - kshenr@N/A@False
+iwaslookingfor@iwaslookingfor@True
+Jakas mapa - kshenr@Jakaś mapa - kshenr@True
 jammie@jammie@False
 janknot1@janknot1@True
-janknot2@N/A@False
+janknot2@janknot2@False
 janknot3@janknot3@False
 jared@jared@True
 Jesser@Jesser@True
 Joel@Joel@False
 joever@joever@False
-juh@N/A@False
-Jump  down@Jump  down@False
+juh@juh@True
+Jump  down@Jump  down@True
 JUMP 2@JUMP 2@False
 JUMP 3@JUMP 3@False
 Jump Car @Jump Car Green@False
 just dave is semy is semxy@just dave is semy is semxy@False
 juzek z bagien@juzek z bagien@False
-Kack Bacc@Kack Bacc@False
+Kack Bacc@Kack Bacc@True
 Kackiest Kacky #-180 (maybe)@Kackiest Kacky #-180 (maybe)@False
 Kackiest Kacky #-1801@Kackiest Kacky #-1801@False
 Kackiest Kacky #-420@Kackiest Kacky #-420@False
 Kackiest Kacky #420@Kackiest Kacky #420@True
 Kackiest Lunatic @Kackiest Lunatic@False
 Kacky material@Kacky material@False
-Kaewyui@Kaewyui@False
-Kaho shib@N/A@False
-kakakmamats@N/A@False
-kamazs@kamazs@False
-Kamil cos ty narobil@N/A@False
+Kaewyui@Kaewyui@True
+Kaho shib@Kaho shib@False
+kakakmamats@kakakmamats@True
+kamazs@kamazs@True
+Kamil cos ty narobil@Kamil cos ty narobil@True
 kastke bjanc@kastke bjanc@False
 Katahha@Katahha@False
 kielopewin@kielopewin@True
 King  \LOL/@King  \LOL/@False
-Kixd=o@Kixd=o@False
-kore kore @N/A@True
+Kixd=o@Kixd=o@True
+kore kore @kore kore@True
 Kowalski Analiza@Kowalski Analiza@True
-kroci gl@N/A@False
+kroci gl@kroci gl@False
 kuki 0.8@kuki 0.8@False
-Kyyut@N/A@False
+Kyyut@Kyyut@False
 L egester@L egester@False
 l0L  trick@l0L  trick@False
-L2Ci@L2Ci@False
+L2Ci@L2Ci@True
 laj exys@laj exys@False
 Last christmas@Last christmas@False
 Lee Ghandi@Lee Ghandi@True
@@ -435,11 +434,11 @@ lemme gold them@lemme gold them@False
 lemon can baeat this at@lemon can baeat this at@True
 less bioring@less bioring@False
 Less Md@Less Md@False
-let the party begin@let the party begin@False
-let the party end@N/A@False
-Lewldnatic@N/A@False
-lick a homie@N/A@False
-limiter 01@N/A@True
+let the party begin@let the party begin@True
+let the party end@let the party end@False
+Lewldnatic@Lewldnatic@False
+lick a homie@lick a homie@True
+limiter 01@limiter 01@True
 Limo Ledge@Limo Ledge@False
 line onev56@line onev56@False
 loCkneS5@loCkneS5@False
@@ -447,20 +446,20 @@ lol box 1@lol box 1@True
 lol box 2@lol box 2@False
 lol box 3@lol box 3@False
 lol box 4@lol box 4@False
-LoL Circle @N/A@False
+LoL Circle @LoL Circle@False
 LoL GS #43@LoL GS #43@True
 lol presicion idk how these boosters work@lol presicion idk how these boosters work@False
 LOL Ultimate@LOL Ultimate@False
 LOL ye11@LOL ye11@False
-lol2@lol2@False
+lol2@lol2@True
 Lolek1@Lolek1@False
-Lolek2@N/A@False
+Lolek2@Lolek2@True
 Lolek3@Lolek3@False
 Lolek4@Lolek4@False
-LOLL xasto@LOLL xasto@False
-LoLnatiC 1@N/A@False
+LOLL xasto@LOLL xasto@True
+LoLnatiC 1@M&lt;-S-&gt;&lt;-C@True
 LoLnatiC 2@LoLnatiC 2@True
-Loop the Loop@N/A@False
+Loop the Loop@Loop the Loop@True
 luck jumpss 23@luck jumpss 23@True
 lucky drop XD@lucky drop XD@False
 Luknatic roof@Luknatic roof@False
@@ -471,68 +470,68 @@ LuNatiC 4@LuNatiC 4@True
 LuNatiC 5@LuNatiC 5@False
 LuNatiC 6@LuNatiC 6@False
 LuNatiC 7@LuNatiC 7@False
-LuNatiC 8@N/A@False
+LuNatiC 8@LuNatiC 8@False
 Lunatic biunc@Laleczka Kogula to trollge@False
-Lunatic boosters@Lunatic argon 3@False
+Lunatic boosters@Lunatic argon 3@True
 Lunatic by kshenr@Lunatic by kshenr@False
-Lunatic for your grandma@Lunatic for your grandma@False
+Lunatic for your grandma@Lunatic for your grandma@True
 lunatic trial for pros extended madness extreme@lunatic trial for pros extended madness extreme@False
 lunatic trial for pros2.1@lunatic trial for pros2@False
 Lunatic xddtime@Lunatic xddtime@False
 Lunatic//asto@Lunatic//asto@False
 Lunatick -2@Lunatick -2@False
-lunatix miked@lunatix miked@False
+lunatix miked@lunatix miked@True
 lycka tui@lycka tui@False
-Majuna@Majuna@False
+Majuna@Majuna@True
 make tit boog@make tit boog@True
 Malice@Malice@False
 Manrdue@Manrdue@False
 map for Dexter771@map for Dexter771@True
 Map for ratabata@Map for ratabata@False
 Map for Smokey@Map for Smokey@False
-map originel fouge@map originel fouge@False
+map originel fouge@map originel fouge@True
 map s just@map s just@False
 map109@huge cream blast@False
 mapmaxing@mapmaxing@False
-mappah cuttah@ᄂᄆᄂ〢mappah cuttah@False
+mappah cuttah@ᄂᄆᄂ〢mappah cuttah@True
 Masterclass1@Masterclass1@False
 Masterpiece1@Masterpiece1@False
-mastierpe@mastierpe@False
-Matura pomocy haHAA@Matura pomocy haHAA@False
+mastierpe@mastierpe@True
+Matura pomocy haHAA@Matura pomocy haHAA@True
 max me@max me@False
-max me 2@max me 2@False
+max me 2@max me 2@True
 maXloL1@maXloL1@False
 maXloL2@maXloL2@False
-Maze Race@Maze@False
+Maze Race@Maze@True
 Medium LoL 1@Medium LoL 1@False
 memory lane@memory lane@False
-Meow or nya?@Meow or nya?@False
+Meow or nya?@Meow or nya?@True
 Mercury@Mercury@False
 Mini fs 1@Mini fs 1@False
-Mini fs 2@N/A@True
+Mini fs 2@Mini fs 2@True
 Mini fs 3@Mini fs 3@False
 Mini gs #22@Mini gs #22@False
 Mini lol3@Mini lol3@False
-Mini Lunatic 2@N/A@False
+Mini Lunatic 2@Mini Lunatic 2@True
 Mini LuNatiC trial 1@Mini LuNatiC trial 1@True
 Mini LuNatiC trial 2@Mini LuNatiC trial 2@False
 Mini Lunatix@Mini Lunatix@False
-mini sjedk@N/A@False
+mini sjedk@mini sjedk@False
 mixed long map for begginers@mixed long map for begginers@False
 mocny jebniety@mocny jebniety@False
 more idea how to build fs@more idea how to build fs@False
 More ways than uber @More ways than uber@False
-Morskie Ucho @N/A@False
-mozetk@N/A@False
+Morskie Ucho @Morskie Ucho x@True
+mozetk@mozetk@True
 Mufat deez@Mufat deez@False
 mufat type map@mufat type map@True
-my beat + your melody@my beat + your melody@False
+my beat + your melody@my beat + your melody@True
 My desk rn@My desk rn@True
-my screen turned black so i dont know what i built@N/A@False
+my screen turned black so i dont know what i built@my screen turned black so i dont know what i built@False
 my time i can feel it@my time i can feel it@False
 myhonestreaction@myhonestreaction@False
-Nagatorer@N/A@False
-nah, id win@nah, id win@False
+Nagatorer@Nagatorer@True
+nah, id win@nah, id win@True
 Nai Rem@Nai Rem@False
 Nat Izd@Nat Izd@True
 Naymeow@Naymeow@False
@@ -544,92 +543,92 @@ newconceptforme@newconceptforme@False
 Next Track@Next Track@False
 nice AT time @N/A@False
 nie umieray@nie umieray@False
-niech mnie kule bija@niech mnie kule bija@False
+niech mnie kule bija@niech mnie kule bija@True
 No cheese :D@No cheese :D@True
 no idea how to build fs@no idea how to build fs@False
-no maidens@N/A@False
+no maidens@no maidens@True
 no nieeee@no nieeee@True
 no regtes@no regtes@False
 Nocne Granie@Nocne Granie@True
-Nocne Spanie@N/A@False
+Nocne Spanie@Nocne Spanie@True
 Noit Gnin@Noit Gnin@False
 Noober1@Noober1@False
 Noober1f@Noober1f@False
 NoPro // asto@NoPro // asto@True
-Normal lol map :D@N/A@False
-Normal? i was normal once@N/A@False
+Normal lol map :D@Normal lol map :D@True
+Normal? i was normal once@Normal? i was normal once@False
 Nosebug 1@Nosebug 1@False
-nosebuGG@N/A@False
+nosebuGG@nosebuGG@True
 Nosense Trial@Nosense Trial@False
 Not a map@Not a map@False
 not bad jonathan@not bad jonathan@True
 Not for me@Not for me@True
 not kacky 1@not kacky 1@False
-not kacky 2@not kacky 2@False
+not kacky 2@not kacky 2@True
 not random easy lol@not random easy lol@False
 not wobblin boblinn@not wobblin boblinn@False
-not your usual lol@not your usual lol@False
+not your usual lol@not your usual lol@True
 noth final boss@noth final boss@True
 nothin nothin@nothin nothin@False
-now i gotta go@now i gotta go@False
+now i gotta go@now i gotta go@True
 nuero@nuero@True
-Nyaa@N/A@False
-OEGKA@N/A@False
+Nyaa@Stupid idea v2@False
+OEGKA@OEGKA@False
 ogs boo@ogs boo@False
 oh thats easy@oh thats easy@False
 Oishi Supu@Oishi Supu@False
-old school tasmap@N/A@True
+old school tasmap@old school tasmap@True
 old school tasmap 3@N/A@False
 om ma gah@om ma gah@False
 One drift #1 dirt@One drift #1 dirt@False
 One drift #3 dirt@One drift #3 dirt@False
-one drop of paradise@N/A@False
+one drop of paradise@one drop of paradise@True
 One More mate@One More mate@False
-Outmo@N/A@False
-overdose@N/A@False
+Outmo@Outmo@True
+overdose@overdose@True
 owo uwu trial  @owo uwu trial@True
-Paiz Lunatic@Paiz Lunatic@False
+Paiz Lunatic@Paiz Lunatic@True
 Papa Smerf@Papa Smerf@True
 Parker @Parker@True
 Parking Police Chase@Parking Police Chase@True
 Parkuour Parkouor Parkouor@Parkuour Parkouor Parkouor@True
 perfect place@perfect plaDF3ce@False
 perhaps fs@perhaps fs@False
-pf start gs fin eeeeeeee@N/A@True
-Pfow1@Pfow1@False
-pfow2@pfow2@False
-Phonky tribu@N/A@True
-phxnky@N/A@False
+pf start gs fin eeeeeeee@pf start gs fin eeeeeeee@True
+Pfow1@Pfow1@True
+pfow2@pfow2@True
+Phonky tribu@Phonky tribu@True
+phxnky@phxnky@False
 Pink Season 1@Pink Season 1@True
 pisac i czytac@pisac i czytac@False
 playable lol 1@playable lol 1@False
 playable lol 2@playable lol 2@False
 pls dont cut my map ty@pls dont cut my map ty@False
-PolyTrack7@PolyTrack7@False
+PolyTrack7@PolyTrack7@True
 poniedzialek1@poniedzialek1@False
 poniedzialek2@poniedzialek2@False
 poniedzialek3@poniedzialek3@False
-poniedzialek4@poniedzialek4@False
+poniedzialek4@poniedzialek4@True
 poniedzialek5@poniedzialek5@False
-Pontyjskie Kaukazy@N/A@False
-Possible Climbing@N/A@False
+Pontyjskie Kaukazy@Pontyjskie Kaukazy@True
+Possible Climbing@Possible Climbing@True
 precise lol speed@precise lol speed@False
 Precision 10@Precision 10@False
 Precision 5@Precision 5@False
-Precision 7@Precision 7@False
+Precision 7@Precision 7@True
 Precision 8@Precision 8@False
-PrEcisioN jumpii@N/A@False
+PrEcisioN jumpii@PrEcisioN jumpii@True
 Precision Mystery@Precision Mystery@False
-probably a pad map@probably a pad map@False
+probably a pad map@probably a pad map@True
 Properino mapino@Properino mapino@True
 Purple Booster start#1@Purple Booster start#1@False
 Purple Booster start#2@Purple Booster start#2@False
 Puzzle 1003@Puzzle 1003@False
-Puzzlenatic1@N/A@False
-radom olo@radom olo@False
-Ramp Up@N/A@False
-rAndom olol@rAndom olol@False
-rata luna@rata luna@False
+Puzzlenatic1@Puzzlenatic1@False
+radom olo@radom olo@True
+Ramp Up@Ramp Up@False
+rAndom olol@rAndom olol@True
+rata luna@rata luna@True
 rata11@rata11@False
 Ratabatav2@Ratabatav2@False
 Rave Boy@Rave Boy@False
@@ -642,13 +641,13 @@ Reduce your airtime@Reduce your airtime@False
 Remirtui@Remirtui@False
 retreat to hagra@retreat to hagra@False
 Reverse Precision@Reverse Precision@False
-Righ Left Straight@N/A@False
-Ring Playground@N/A@False
-Road is closed sir@N/A@False
+Righ Left Straight@Righ Left Straight@True
+Ring Playground@Ring Playground@True
+Road is closed sir@Road is closed sir@True
 robie magika@robie magika@False
-Rocket Car@N/A@False
+Rocket Car@Rocket Car@False
 Rolias@Rolias@False
-Rope Bridge@N/A@False
+Rope Bridge@Rope Bridge@False
 rubenfedp@rubenfedp@False
 ruined run@ruined run@True
 Salvatore@Salvatore@False
@@ -658,11 +657,11 @@ sectumsempra@sectumsempra@False
 Sedli jump 1@Sedli jump 1@False
 Sedli lol 1@Sedli lol 1@False
 Sedli lol 2@Sedli lol 2@False
-Sedli lol 3@N/A@False
+Sedli lol 3@Sedli lol 3@True
 Sedliest Sedly #1@Sedliest Sedly #1@True
 Sedliest Sedly #10@Sedliest Sedly #10@True
 Sedliest Sedly #12@Sedliest Sedly #12@False
-Sedliest Sedly #13 @Sedliest Sedly #13@False
+Sedliest Sedly #13 @Sedliest Sedly #13@True
 Sedliest Sedly #14@Sedliest Sedly #14@True
 Sedliest Sedly #15@Sedliest Sedly #15@True
 Sedliest Sedly #16@Sedliest Sedly #16@True
@@ -677,8 +676,8 @@ Sedliest Sedly #7@Sedliest Sedly #7@False
 Sedliest Sedly #8@Sedliest Sedly #8@False
 Sedliest Sedly #9@Sedliest Sedly #9@True
 Sedliv 1@Sedliv 1@False
-Sedliv 1-0@N/A@False
-Sedliv 2@Sedliv 2@False
+Sedliv 1-0@Sedliv 1-0@True
+Sedliv 2@Sedliv 2@True
 Sedliv 3@Sedliv 3@False
 Sedliv 4@Sedliv 4@False
 Sedliv 5@Sedliv 5@False
@@ -686,14 +685,14 @@ Sedliv 6@Sedliv 6@True
 Sedliv 7@Sedliv 7@False
 Sedliv 9?@Sedliv 9?@True
 Serpentine Surge@Serpentine Surge@False
-seshionu s@N/A@False
-set the score@set the score@False
+seshionu s@seshionu s@False
+set the score@set the score@True
 Setup without the s@Setup without the s@False
 Shallow Dip@Shallow Dip@True
 Shallow Dip cutproofed@Shallow Dip cutproofed@False
-Shikanoko Nokonoko Koshitantan@Shikanoko Nokonoko Koshitantan@False
-shit bad 1@N/A@False
-shit bad 2@shit bad 2@False
+Shikanoko Nokonoko Koshitantan@Shikanoko Nokonoko Koshitantan@True
+shit bad 1@shit bad 1@False
+shit bad 2@shit bad 2@True
 shit050@Unnamedshit050@True
 Shitfestival@Shitfestival@False
 Short 4@Short 4@True
@@ -701,9 +700,9 @@ Short 5@Short 5@False
 Short 6@Short 6@False
 Short map 13@Short map 13@False
 Short map 14@Short map 14@False
-Short toro@N/A@False
+Short toro@Short toro@True
 shortt1@shortt1@False
-shoutout to my fans@N/A@False
+shoutout to my fans@shoutout to my fans@True
 shrek is love he said shrek is life@shrek is love he said shrek is life@False
 siebbxxb@siebbxxb@False
 Sike goteem@Unnamedsike@False
@@ -716,84 +715,84 @@ Simple Mini 5@Simple Mini 5@False
 Simple Mini 6@Simple Mini 6@False
 Simple Mini 7@Simple Mini 7@False
 Simple Mini 8@Simple Mini 8@True
-Skagger@N/A@False
+Skagger@Skagger@True
 skibidi bop mm da da@skibidi bop mm da da@True
-Skip that :)@N/A@False
+Skip that :)@Skip that :)@True
 skulpter climp@skulpter climp@False
 skulpter descend@skulpter descend@False
 Skyline@Skyline@False
-SL bn65@N/A@False
+SL bn65@SL bn65@True
 Slap the tissue box@Slap the tissue box@False
 slapping cheese uuh@slapping cheese uuh@True
 slightly abnormal lol map@slightly abnormal lol map@True
-sloppy mess@N/A@False
+sloppy mess@sloppy mess@False
 Smerfetka@Smerfetka@False
 sock with milk @sock with milk@True
-some day@some day@False
+some day@some day@True
 some loops and jumps  dd@some loops and jumps  dd@False
 some night@some night@False
 Some Soe1@Some Soe1@False
 Some some2@Some some2@False
 Some Some3@Some Some3@False
-something something@something something@False
-Spam1@N/A@False
+something something@something something@True
+Spam1@Spam1@False
 Spam2@Spam2@True
 Spam3@Spam3@True
-specjalne pozdrowienia@specjalne pozdrowienia@False
+specjalne pozdrowienia@specjalne pozdrowienia@True
 speed then unusaul biunc and up@speed then unusaul biunc and up@False
 Speedbridge@Speedbridge@False
 SPiederZ v1 XGR trial@SPiederZ v1 XGR trial@False
 Spiritual way@Spiritual way@False
-Sprkly@Sprkly@False
-Spyrogen@N/A@False
-Spyrogen 2@Spyrogen 2@False
-Square mief@N/A@False
-Sraloop@N/A@False
-sreppam tnuH@N/A@False
+Sprkly@Sprkly@True
+Spyrogen@Spyrogen@True
+Spyrogen 2@Spyrogen 2@True
+Square mief@Square mief@True
+Sraloop@Sraloop@False
+sreppam tnuH@sreppam tnuH@True
 stadion op@stadion op@True
-stars alliign@N/A@False
+stars alliign@stars alliign@True
 Straight Forward or is it@Straight Forward or is it@False
-Stripescircled plex@N/A@False
+Stripescircled plex@Stripescircled plex@True
 Stunt snake@Unnamed średni atrasa@True
 Stupid idea@Stupid idea@False
 such a strange map@such a strange map@False
 Sugondese@Unnamedxdsstr@False
 sum ting wong@sum ting wong@False
-sunks@sunks@False
+sunks@sunks@True
 sushidawg@sushidawg@False
-sussybaka@sussybaka@False
+sussybaka@sussybaka@True
 Sxnset@Sxnset@False
 Sybmurine@Sybmurine@True
-Syzyfowe Prace 01@N/A@False
+Syzyfowe Prace 01@Syzyfowe Prace 01@True
 Syzyfowe Prace 02@Syzyfowe Prace 02@False
-Syzyfowe Prace 03@N/A@False
+Syzyfowe Prace 03@Syzyfowe Prace 03@False
 take that back Leorio@take that back Leorio@False
-Tangerine@Tangerine@False
+Tangerine@Tangerine@True
 Team Cisowianka@Team Cisowianka@False
 Tech Dzi@Tech Dzi@False
 TechSport#1@TechSport#1@True
 Teh luantic llord@Teh luantic llord@False
-teoria nieladu@N/A@False
-Tevlev@Tevlev@False
-th eonly rign@N/A@False
-the f is this dziwny@the f is this dziwny@False
+teoria nieladu@teoria nieladu@True
+Tevlev@Tevlev@True
+th eonly rign@th eonly rign@True
+the f is this dziwny@the f is this dziwny@True
 the path@the path@True
 the time improve you must@the time improve you must@False
-the voices are calling me@N/A@False
+the voices are calling me@the voices are calling me@True
 thigh highs@thigh highs@True
 this is  what  think@this is  what  think@False
 thralla@thralla@True
 Thuncision@Thuncision@False
 Thuncision 2@Thuncision 2@False
-Tire Studs@N/A@False
+Tire Studs@Tire Studs@True
 tmf seasons but better@tmf seasons but better@False
 tokjo rein@tokjo rein@True
-Tokyo Drift@N/A@False
-Tollok Utumutu@N/A@False
+Tokyo Drift@Tokyo Drift@True
+Tollok Utumutu@Tollok Utumutu@True
 Tower @Tower@False
 tr0n@tr0n@False
-Track for Elise@N/A@False
-Transitional no cp @Transitional no cp@False
+Track for Elise@Track for Elise@True
+Transitional no cp @Transitional no cp@True
 Transitional suske@Transitional suske@False
 Trasa dla Nakapuki@Unnamedguwno5@False
 Trash Ball or smth@Trash Ball or smth@True
@@ -804,100 +803,100 @@ Turbo Skate Mania@Turbo Skate Mania@False
 Uber 9x dziwny@Uber 9x dziwny@True
 ule le me@ule le me@False
 Ulica Sezamkowa@Ulica Sezamkowa@False
-ultraviolet@N/A@False
+ultraviolet@ultraviolet@True
 Ummbero@Ummbero@False
-unlux  e@N/A@False
+unlux  e@nlux  e@False
 unlux jumoing@unlux jumoing@False
-Unnamedsus 23e@N/A@False
+Unnamedsus 23e@Unnamedsus 23e@True
 Unpiramid@Unpiramid@False
 Unplayable lol1@Unplayable lol1@False
 Unplayable lol2@Unplayable lol2@False
-Unplayable lol3@N/A@False
+Unplayable lol3@Unplayable lol3@False
 Untransitional LuNatiC@Untransitional LuNatiC@False
 uwe wue@uwe wue@False
 UwU peak mapping@UwU peak mapping@False
-Vacuber2@N/A@False
+Vacuber2@Vacuber2@False
 Vacuber3@Vacuber3@False
-Vacuber4@N/A@True
+Vacuber4@Vacuber4@True
 vakuwuna@vakuwuna@False
-verbal black magic@N/A@False
+verbal black magic@verbal black magic@False
 very lol map for very lol team@very lol map for very lol team@True
 very lol map for very lol team reverse@very lol map for very lol team reverse@True
-Vista Sonceri@Vista Sonceri@False
+Vista Sonceri@Vista Sonceri@True
 Volol_1@Volol_1@False
 w head szaleja synapsy@w head szaleja synapsy@False
 wacky lol@wacky lol@False
 wait what?@widein simple editor lol@True
-wale dzioma@wale dzioma@False
+wale dzioma@wale dzioma@True
 walimy schnappsy@walimy schnappsy@False
 watch the cars drop@watch the cars drop@False
 Waytooeasy for u@Waytooeasy for u@False
 Waytoohard@Waytoohard@False
-wchodja@wchodja@False
+wchodja@wchodja@True
 wedneday1@wedneday1@True
 wedneday2@wedneday2@False
 Well, it's been a year,@Well, it's been a year,@True
 what is love?@what is love?@True
-what the sigma platform@N/A@False
+what the sigma platform@what the sigma platform@False
 What trial is in the box?@What trial is in the box?@True
-whatever2@N/A@False
+whatever2@whatever2@False
 Whats the reason why@Whats the reason why@True
 When shes home alone@When shes home alone@True
-Whit pikn lback@Whit pikn lback@False
+Whit pikn lback@Whit pikn lback@True
 White #1@White #1@False
 White #2@White #2@False
 White #3@N/A@False
 who stole richard@who stole richard@False
 WHOLETHIMCOOK@WHOLETHIMCOOK@False
-Whowie@N/A@False
+Whowie@Whowie@False
 whwhw@Short Lol 2@False
-wibble bille 1@N/A@False
-widepeepoHappy@N/A@False
+wibble bille 1@wibble bille 1@True
+widepeepoHappy@widepeepoHappy@True
 Wierdest Wierd #1@Wierdest Wierd #1@False
-wierdstatus@N/A@True
-Wings@N/A@True
+wierdstatus@wierdstatus@True
+Wings@Wings@True
 wink plink@wink plink@True
 Winter 2025 - 13@Winter 2025 - 13@False
 wobble bobble 2@wobble bobble 2@False
 wobble bobble 3@wobble bobble 3@False
 wobble boble 1@wobble boble 1@False
-wonsz rzeczny jest niebezpieczny@N/A@False
-wont rest forever@N/A@False
-woo summer time@N/A@True
+wonsz rzeczny jest niebezpieczny@wonsz rzeczny jest niebiespiezpieczny@False
+wont rest forever@wont rest forever@False
+woo summer time@woo summer time@True
 Woof or Bark?@Woof or Bark?@False
 World of dziwnystan@World of dziwnystan@True
 Worst map ever @Worst map ever@True
 wowie@wowie@False
 Wrath of Chaos @Wrath of Chaos xdd@True
 wszystko o pato@wszystko o pato@False
-wyciouem jej dobry numer@wyciouem jej dobry numer@False
+wyciouem jej dobry numer@wyciouem jej dobry numer@True
 x d jump not calculated at all@x d jump not calculated at all@True
 xddpuzzle@xddpuzzle@False
-Xdzimas1@N/A@True
+Xdzimas1@Xdzimas1@False
 Xdzimas2@Xdzimas2@False
-Xdzimas3@N/A@True
-Yeet them outa@N/A@False
+Xdzimas3@Xdzimas3@True
+Yeet them outa@Yeet them out@True
 Yeet to fli@Yeet to fli@False
 YEK?@YEK?@False
-yes way@yes way@False
+yes way@yes way@True
 YES YES YES@YES YES YES@False
 yesno fake@yesno fake@False
 yesno my mouse is broken@yesno my mouse is broken@False
 Ying i Yang@Ying i Yang@True
 yorngeturkorin@yorngeturkorin@False
-Your mom is a beautiful woman@Your mom is a beautiful woman@False
+Your mom is a beautiful woman@Your mom is a beautiful woman@True
 youre freddy@youre freddy@False
 yucho cha@yucho cha@False
 zeratoris mini@zeratoris mini@False
 zjem kapcie  mojzesza@zjem kapcie  mojzesza@False
 zlewozmywak@zlewozmywak@False
 zlodziej1@zlodziej1@False
-Zoomer Slowlowlio@Zoomer Slowlowlio@False
+Zoomer Slowlowlio@Zoomer Slowlowlio@True
 ¿Klub PrzyjaciÃ³Å, Myszki Miki@Klub Przyjaciół Myszki Miki@False
 ï»¿GÃ³wniane GÃ³wno #1@Gówniane Gówno #1@False
-ï»¿GÃ³wniane GÃ³wno #2@Gówniane Gówno #2@False
-ï»¿paÅ‚ka teleskopowa@pałka teleskopowa@False
+ï»¿GÃ³wniane GÃ³wno #2@Gówniane Gówno #2@True
+ï»¿paÅ‚ka teleskopowa@pałka teleskopowa@True
 ï»¿to byÅ‚ niebezpieczny czubek@to był niebezpieczny czubek@False
 ï»¿zupa z maÅ‚py@zupa z małpy@True
 ï»¿Å‚x@Do przejechania spoko pomysł@False
-ï»¿Î Ä¬Å„ã‚§ÏÑ³Ä½Î”Ð¸D@ΠĬńェρѳĽΔиD@False
+ï»¿Î Ä¬Å„ã‚§ÏÑ³Ä½Î”Ð¸D@ΠĬńェρѳĽΔиD@True
